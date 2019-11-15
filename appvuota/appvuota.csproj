@@ -13,10 +13,13 @@
     <Compile Remove="MyPage %28copia%29.xaml.cs" />
     <Compile Remove="MyPage %28un%27altra copia%29.xaml.cs" />
     <Compile Remove="MyPage2.xaml.cs" />
+    <Compile Remove="MyPage %28copia%29.xaml.cs" />
+    <Compile Remove="MyPage %28un%27altra copia%29.xaml.cs" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Remove="MyPage %28copia%29.xaml" />
     <EmbeddedResource Remove="MyPage2.xaml" />
     <EmbeddedResource Remove="MyPage2.xaml" />
+    <EmbeddedResource Remove="MyPage %28copia%29.xaml" />
   </ItemGroup>
 </Project>

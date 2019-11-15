@@ -12,3 +12,4 @@
 /Users/corso/Projects/appvuota/appvuota/obj/Debug/netstandard2.0/appvuota.dll
 /Users/corso/Projects/appvuota/appvuota/obj/Debug/netstandard2.0/ref/appvuota.dll
 /Users/corso/Projects/appvuota/appvuota/obj/Debug/netstandard2.0/appvuota.pdb
+/Users/corso/Projects/appvuota/appvuota/obj/Debug/netstandard2.0/appvuota.csprojAssemblyReference.cache
