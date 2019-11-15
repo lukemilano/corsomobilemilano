@@ -1,6 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using Microsoft.AppCenter;
+using Microsoft.AppCenter.Analytics;
+using Microsoft.AppCenter.Crashes;
 
 using Foundation;
 using UIKit;
@@ -24,6 +27,12 @@ namespace appvuota.iOS
         {
             global::Xamarin.Forms.Forms.Init();
             LoadApplication(new App());
+
+
+            AppCenter.Start("ios=93345561-578b-4b95-8674-10f93fb58542;" +
+                  "uwp={Your UWP App secret here};" +
+                  "android={Your Android App secret here}",
+                  typeof(Analytics), typeof(Crashes));
 
             return base.FinishedLaunching(app, options);
         }
