@@ -7,7 +7,7 @@
         <Button Text="invio!!" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" BackgroundColor="PaleVioletRed" TextColor="White" Opacity="50" Clicked="MioClick" />
         <Label x:Name="mialabel"
                HorizontalOptions="Center"
-               VerticalOptions="Center"
+               VerticalOption="Center"
                >0</Label>
     </StackLayout>
 </ContentPage>
