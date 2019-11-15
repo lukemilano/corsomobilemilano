@@ -1,6 +1,6 @@
-﻿<Properties StartupConfiguration="{A609E7EE-3225-47C6-9C74-AD1350AA337B}|Default">
+﻿<Properties StartupConfiguration="{E0AD42EF-5EC3-4991-87F5-B2BEE08E0D74}|Default">
   <MonoDevelop.Ide.ItemProperties.appvuota.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="appvuota.iOS/AppDelegate.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="appvuota.iOS/Main.cs">
     <Files>
       <File FileName="appvuota/MainPage.xaml" Line="7" Column="177" />
       <File FileName="appvuota/MainPage.xaml.cs" />
@@ -11,7 +11,9 @@
       <File FileName="appvuota/MyPage2.xaml.cs" />
       <File FileName="appvuota/Terza.xaml" Line="13" Column="1" />
       <File FileName="appvuota/Terza.xaml.cs" />
-      <File FileName="appvuota.iOS/AppDelegate.cs" Line="36" Column="54" />
+      <File FileName="appvuota.iOS/AppDelegate.cs" Line="41" Column="1" />
+      <File FileName="appvuota.iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="appvuota.iOS/Main.cs" Line="17" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -23,7 +25,7 @@
               <Node name="Terza.xaml" expanded="True" />
             </Node>
             <Node name="appvuota.iOS" expanded="True">
-              <Node name="AppDelegate.cs" selected="True" />
+              <Node name="Main.cs" selected="True" />
             </Node>
           </Node>
         </State>

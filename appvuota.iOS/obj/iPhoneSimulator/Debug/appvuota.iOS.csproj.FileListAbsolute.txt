@@ -56,9 +56,9 @@
 /Users/corso/Projects/appvuota/appvuota.iOS/bin/iPhoneSimulator/Debug/Microsoft.AppCenter.Analytics.iOS.Bindings.dll
 /Users/corso/Projects/appvuota/appvuota.iOS/bin/iPhoneSimulator/Debug/Microsoft.AppCenter.Crashes.dll
 /Users/corso/Projects/appvuota/appvuota.iOS/bin/iPhoneSimulator/Debug/Microsoft.AppCenter.Crashes.iOS.Bindings.dll
-/Users/corso/Projects/appvuota/appvuota.iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
-/Users/corso/Projects/appvuota/appvuota.iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
-/Users/corso/Projects/appvuota/appvuota.iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
-/Users/corso/Projects/appvuota/appvuota.iOS/obj/iPhoneSimulator/Debug/coremlc/_PartialAppManifest.items
-/Users/corso/Projects/appvuota/appvuota.iOS/obj/iPhoneSimulator/Debug/coremlc/_BundleResourceWithLogicalName.items
-/Users/corso/Projects/appvuota/appvuota.iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/corso/Projects/appvuota/appvuota.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/corso/Projects/appvuota/appvuota.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2.2/actool/_PartialAppManifest.items
+/Users/corso/Projects/appvuota/appvuota.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2.2/actool/_BundleResourceWithLogicalName.items
+/Users/corso/Projects/appvuota/appvuota.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2.2/coremlc/_PartialAppManifest.items
+/Users/corso/Projects/appvuota/appvuota.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2.2/coremlc/_BundleResourceWithLogicalName.items
+/Users/corso/Projects/appvuota/appvuota.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2.2/optimized/
