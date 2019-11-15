@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{A609E7EE-3225-47C6-9C74-AD1350AA337B}|Default">
+  <MonoDevelop.Ide.ItemProperties.appvuota.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="appvuota/Terza.xaml">
+    <Files>
+      <File FileName="appvuota/MainPage.xaml" Line="7" Column="177" />
+      <File FileName="appvuota/MainPage.xaml.cs" />
+      <File FileName="appvuota/App.xaml.cs" />
+      <File FileName="appvuota/MyPage.xaml" />
+      <File FileName="appvuota/MyPage.xaml.cs" />
+      <File FileName="appvuota/MyPage2.xaml" />
+      <File FileName="appvuota/MyPage2.xaml.cs" />
+      <File FileName="appvuota/Terza.xaml" Line="13" Column="1" />
+      <File FileName="appvuota/Terza.xaml.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="appvuota" expanded="True">
+            <Node name="appvuota" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MyPage.xaml" expanded="True" />
+              <Node name="Terza.xaml" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.appvuota.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.45ABCBB7-2BF1-4027-AACD-8281712F4A6B" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

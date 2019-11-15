@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:d="http://xamarin.com/schemas/2014/forms/design" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="appvuota.MainPage" Title="Titolo">
+    <StackLayout>
+        <Label Text="Buongiorno!!" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" FontSize="50" BackgroundColor="Aqua"/>
+        <Image Source="https://i0.wp.com/focustech.it/wp-content/uploads/2015/09/android.png" />
+        <Label Text="Welcome to Xamarin.Forms!" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
+        <Button Text="invio!!" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" BackgroundColor="PaleVioletRed" TextColor="White" Opacity="50" Clicked="MioClick" />
+        <Label x:Name="mialabel"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"
+               >0</Label>
+    </StackLayout>
+</ContentPage>

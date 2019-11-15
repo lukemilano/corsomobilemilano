@@ -1,0 +1,14 @@
+/Users/corso/Projects/appvuota/appvuota/bin/Debug/netstandard2.0/appvuota.deps.json
+/Users/corso/Projects/appvuota/appvuota/bin/Debug/netstandard2.0/appvuota.dll
+/Users/corso/Projects/appvuota/appvuota/bin/Debug/netstandard2.0/ref/appvuota.dll
+/Users/corso/Projects/appvuota/appvuota/bin/Debug/netstandard2.0/appvuota.pdb
+/Users/corso/Projects/appvuota/appvuota/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/corso/Projects/appvuota/appvuota/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/corso/Projects/appvuota/appvuota/obj/Debug/netstandard2.0/MyPage.xaml.g.cs
+/Users/corso/Projects/appvuota/appvuota/obj/Debug/netstandard2.0/Terza.xaml.g.cs
+/Users/corso/Projects/appvuota/appvuota/obj/Debug/netstandard2.0/appvuota.AssemblyInfoInputs.cache
+/Users/corso/Projects/appvuota/appvuota/obj/Debug/netstandard2.0/appvuota.AssemblyInfo.cs
+/Users/corso/Projects/appvuota/appvuota/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/corso/Projects/appvuota/appvuota/obj/Debug/netstandard2.0/appvuota.dll
+/Users/corso/Projects/appvuota/appvuota/obj/Debug/netstandard2.0/ref/appvuota.dll
+/Users/corso/Projects/appvuota/appvuota/obj/Debug/netstandard2.0/appvuota.pdb

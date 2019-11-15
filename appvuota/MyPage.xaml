@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="appvuota.MyPage" Title="seconda pagina" >
+
+    <StackLayout>
+    <Label Text="seconda pagina"/>
+    <Button Text="invio!!" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" BackgroundColor="PaleVioletRed" TextColor="White" Opacity="50" Clicked="MioClick2" />
+    </StackLayout>
+</ContentPage>
